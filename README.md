@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, my name is Santiago</h1>
+<h1 align="center">Hi there! My name is Santiago</h1>
 <h3 align="center">A data-savvy and AI enthusiast</h3>
 
 - 🔭 I’m currently working on **an AI to get more insights about goverment contracts**
